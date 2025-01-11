@@ -2,9 +2,15 @@
        font-family: "Fira Sans", serif;
        
        font-style: normal;
+       background-color: rgba(241, 241, 243, 1);
+       
+     }
+
+.all-mar{
        margin-left: 180px;
        margin-right: 180px;
-     }
+       
+}     
      /* ....................... */
 .heading{
        /* display: flex; */
@@ -272,6 +278,7 @@ margin-top: 80px;
        text-align: center;
        /* display: flex; */
        /* background-color: aqua; */
+       margin-bottom: 80px;
 }
 .dnoate-box-taka{
        display: flex;
@@ -306,5 +313,80 @@ margin-top: 80px;
        font-weight: 400;
        background-color: rgba(255, 255, 255, 1);
        margin-bottom: 20px;
+
+}
+    /* ............... */
+.last-box1{
+       height: 404px;
+       /* width: 1020px; */
+       padding-left: 104px;
+       padding-right: 104px;
+       text-align: center;
+       background-color:  #C6E4D6;
+       border-radius: 15px;
+       padding-top: 150px;
+
+}    
+.l-check{
+       height: 35px;
+       width: 759px; 
+     border: 1px solid rgba(14, 14, 14, 0.15);
+       color:rgba(14, 14, 14, 0.3) ;
+       /* border-radius: 16px; */
+       /* text-align: start; */
+       font-size: 20px;
+       font-weight: 400;
+       background-color: rgba(255, 255, 255, 1);
+       margin-bottom: 20px;
+       padding-left: 20px;
+       margin-right: 0%;
+       border: none;
+       
+}
+/* .lll{ */
+       height: 58px;
+       width: 759px; 
+     border: 1px solid rgba(14, 14, 14, 0.15);
+       color:rgba(14, 14, 14, 0.3) ;
+       border-radius: 16px;
+       text-align: start;
+       font-size: 20px;
+       font-weight: 400;
+       background-color: rgba(255, 255, 255, 1);
+       margin-bottom: 20px;
+       padding-left: 20px;
+
+}
+.{
+       
+       background-color: rgba(0, 106, 80, 1);
+       width: 122px;height: 41px;
+       
+       color: #FFFFFF;font-size: 18px;
+       border-radius: 8px;
+       margin-top: 0%;
+       
+}
+/* ............cc. */
+.ohh{
+      
+
+}
+.ses-ta{
+       text-align: center;
+       /* margin-left: 300px; */
+       margin-top: 78px;
+       /* margin-bottom: 24px; */
+       background-color: #FFFFFF ;
+       /* width: 1600px; */
+       height: 226px;
+       /* width: max-content; */
+       width: 1900;
+       padding-top: 70px;
+
+}
+.ses-title{
+       font-size: 32px;
+       font-weight: bold;
 
 }
